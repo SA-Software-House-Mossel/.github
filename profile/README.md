@@ -1,2 +1,2 @@
-![PicknPack](mdLogo.png?raw=true "PicknPack")
+![PicknPack](/mdLogo.png?raw=true "PicknPack")
 ### Distributed Order Fulfillment  
