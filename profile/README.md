@@ -4,9 +4,9 @@ Picknpack is a collection of Microservices. Each responsible for fulfilling a st
 
 The building blocks of the PicknPack API:
 
-- OPTIMUS: The order management microservice
+- [OPTIMUS](https://github.com/SA-Software-House-Mossel/Optimus/pulls): The order management microservice
 
-- DAYTRADER: The order receiving and creation microservice.
+- [DAYTRADER](https://github.com/SA-Software-House-Mossel/Daytrader/pulls): The order receiving and creation microservice.
 
 - [BUMBLEBEE](https://github.com/SA-Software-House-Mossel/Bumblebee/pulls): The middleware microservice responsible for connecting existing infrastructure, Order Management API, and the picker app.
 
