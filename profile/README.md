@@ -8,7 +8,7 @@ The building blocks of the PicknPack API:
 
 - DAYTRADER: The order receiving and creation microservice.
 
-- [BUMBLEBEE]https://github.com/SA-Software-House-Mossel/Bumblebee/pulls : The middleware microservice responsible for connecting existing infrastructure, Order Management API, and the picker app.
+- [BUMBLEBEE](https://github.com/SA-Software-House-Mossel/Bumblebee/pulls): The middleware microservice responsible for connecting existing infrastructure, Order Management API, and the picker app.
 
 - BULKHEAD: The master data feed microservice.
 
