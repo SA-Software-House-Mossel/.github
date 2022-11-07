@@ -10,14 +10,14 @@ The building blocks of the PicknPack API:
 
 - [BUMBLEBEE](https://github.com/SA-Software-House-Mossel/Bumblebee/pulls): The middleware microservice responsible for connecting existing infrastructure, Order Management API, and the picker app.
 
-- BULKHEAD: The master data feed microservice.
+- [BULKHEAD](https://github.com/SA-Software-House-Mossel/Bulkhead/pulls): The master data feed microservice.
 
-- IRONHIDE: The front-end management portal.
+- [IRONHIDE](https://github.com/SA-Software-House-Mossel/Ironhide/pulls): The front-end management portal.
 
-- SMOKESCREEN: The outgoing message queue management microservice.
+- [SMOKESCREEN](https://github.com/SA-Software-House-Mossel/Smokescreen/pulls): The outgoing message queue management microservice.
 
-- TRAILBREAKER: The central authorization service
+- [TRAILBREAKER](https://github.com/SA-Software-House-Mossel/Trailbreaker/pulls): The central authorization service
 
-- INFERNO: The API service for the LIQ App.
+- [INFERNO](https://github.com/SA-Software-House-Mossel/Inferno/pulls): The API service for the LIQ App.
 
-- AIRRAID: The microservice responsible for the ETA API.
+- [AIRRAID](https://github.com/SA-Software-House-Mossel/AirRaid/pulls): The microservice responsible for the ETA API.
