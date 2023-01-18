@@ -26,4 +26,4 @@ The building blocks of the PicknPack API:
 
 
 
-- [DPROC](https://github.com/SA-Software-House-Mossel/DataProcessor/pulls): The microservice responsible for the ETA API.
+[DPROC](https://github.com/SA-Software-House-Mossel/DataProcessor/pulls): The microservice responsible for feeds and processing of data from external clients.
