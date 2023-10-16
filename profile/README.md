@@ -20,7 +20,7 @@ The building blocks of the PicknPack API:
 
 - [INFERNO](https://github.com/SA-Software-House-Mossel/Inferno/pulls): The API service for the LIQ App.
 
-- [AIRRAID](https://github.com/SA-Software-House-Mossel/AirRaid/pulls): The microservice responsible for the ETA API.
+- [AIRRAID](https://github.com/SA-Software-House-Mossel/AirRaid-Nodejs/pulls): The microservice responsible for the ETA API.
 
 - [ASAPPickInjectionService](https://github.com/SA-Software-House-Mossel/AsapPickInjectionService/pulls): The service responsiblel for Injecting New Asap Orders into PicknPack for picking.
 
