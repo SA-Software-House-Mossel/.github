@@ -22,6 +22,8 @@ The building blocks of the PicknPack API:
 
 - [AIRRAID](https://github.com/SA-Software-House-Mossel/AirRaid-Nodejs/pulls): The microservice responsible for the ETA API.
 
+- [PickWalkSequencer](https://github.com/SA-Software-House-Mossel/PickWalkSequencer/pulls): The service which maintains and stores the pick walk sequence of a store.
+
 - [ASAPPickInjectionService](https://github.com/SA-Software-House-Mossel/AsapPickInjectionService/pulls): The service responsiblel for Injecting New Asap Orders into PicknPack for picking.
 
 ![PicknPack](https://github.com/SA-Software-House-Mossel/.github/blob/main/profile/dproc.png?raw=true "PicknPack")
