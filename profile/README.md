@@ -26,6 +26,8 @@ The building blocks of the PicknPack API:
 
 - [ASAPPickInjectionService](https://github.com/SA-Software-House-Mossel/AsapPickInjectionService/pulls): The service responsiblel for Injecting New Asap Orders into PicknPack for picking.
 
+- [Inferno Products](https://github.com/SA-Software-House-Mossel/InfernoProducts/pulls): The service responsible for all product related information.
+
 ![PicknPack](https://github.com/SA-Software-House-Mossel/.github/blob/main/profile/dproc.png?raw=true "PicknPack")
 
 - [DPROC](https://github.com/SA-Software-House-Mossel/Data-Processor/pulls): The microservice responsible for feeds and processing of data from external clients.
